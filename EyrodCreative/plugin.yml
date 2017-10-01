@@ -1,0 +1,6 @@
+name: EyrodCreative
+version: 1.0
+main: fr.Jivaa.EyrodCreative.EyrodCreative
+depend: [PluginsBaker]
+author: Jivaa
+authors: [Jivaa]
